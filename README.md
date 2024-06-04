@@ -1,3 +1,4 @@
-# BS-I
- This repository contains code for the give assignment by Batch Systems
-"# BatchSystemAssignment" 
+# Batch System intern assignment
+
+## The repository is hosted on Netlify
+## Netlify URL - https://batch-system-intern.netlify.app/
